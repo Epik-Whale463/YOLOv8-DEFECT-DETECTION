@@ -60,6 +60,13 @@ The model was trained on Kaggle using a Tesla P100 GPU with the following config
 | Rolled-in Scale | 0.512     | 0.486  | 0.520 | 0.255    |
 | Scratches       | 0.606     | 0.811  | 0.732 | 0.335    |
 
+![WhatsApp Image 2025-05-07 at 17 42 07_208903c7](https://github.com/user-attachments/assets/ebd1b303-f832-423c-82fc-4b4e5af26d5f)
+
+### F! curve
+
+![WhatsApp Image 2025-05-07 at 17 42 26_f3f4eab7](https://github.com/user-attachments/assets/b16349cc-b32f-4222-9ba4-f91424907976)
+
+
 ### Inference Speed
 - Preprocess: 0.2ms
 - Inference: 1.9ms
